@@ -11,7 +11,7 @@ function total_files {
 }
 
 # Copy the executable file "valida" to the tests folder.
-cp "$T1/analisa-e2" $tests
+cp "$T1/analisa-e2" tests
 
 # Get the tests in folder inputs
 cd "$tests"
